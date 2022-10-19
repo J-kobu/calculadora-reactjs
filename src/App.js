@@ -11,7 +11,7 @@ function App() {
 
   const addInput = (val) => {
     setInput(input + val);
-  }
+  };
 
   const calculateResult = () => {
     if (input) { //Cuando una cadena de caracteres está vacía es falsa, y cuando tiene contenido es true
@@ -19,7 +19,7 @@ function App() {
     } else {
       alert('Necesitas algún valor para poder calcular')
     }
-  }
+  };
 
   return (
     <div className='App'>
