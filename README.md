@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-You can check the final project [following this link](https://j-kobu.github.io/calculadora-reactjs/)
+## You can check the final project [following this link](https://j-kobu.github.io/calculadora-reactjs/)
 
 ## Available Scripts
 
